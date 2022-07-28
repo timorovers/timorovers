@@ -1,3 +1,4 @@
-### Hi there 
-
-I’m currently learning Application Language for Microsoft Business Central development
+```python
+Hi,
+My name is Timo and I'm learning Application Language
+```
