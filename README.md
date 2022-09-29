@@ -1,5 +1,12 @@
-```python
-I'm a functional Business Central consultant.
-At the moment I'm learning about technical development for Business Central.
-The programming language for this is AL (Application Language). 
+```yaml
+name: Timo Rovers 
+located_in: Venlo, Netherlands
+current_job: Businness Central Functional Consultant
+education: 
+  [
+    BSc Finance & Control 
+  ]
+company: RoPe IT & Finance B.V.
+
+currently_learning: AL (Application Language)
 ```
