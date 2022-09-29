@@ -4,9 +4,9 @@ located_in: Venlo, Netherlands
 current_job: Businness Central Functional Consultant
 education: 
   [
-    BSc Finance & Control 
+    "BSc Finance & Control"
   ]
 company: RoPe IT & Finance B.V.
 
-currently_learning: AL (Application Language)
+currently_learning: ["Application Language, Docker"]
 ```
