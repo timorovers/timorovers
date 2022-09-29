@@ -1,7 +1,7 @@
 ```yaml
 name: Timo Rovers 
 located_in: Venlo, Netherlands
-current_job: Businness Central Functional Consultant
+current_job: Business Central Functional Consultant
 education: 
   [
     "BSc Finance & Control"
