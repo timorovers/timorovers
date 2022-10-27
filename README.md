@@ -9,7 +9,7 @@ education:
 company: RoPe IT & Finance B.V.
 
 currently_learning: ["Application Language, Docker"]
-hobbies: ["Fitness, motorcycles, gaming"]
+hobbies: ["Fitness, motorcycles, badminton, gaming"]
 ```
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timorovers&layout=compact"/>
