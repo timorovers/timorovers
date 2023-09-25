@@ -1,15 +1,15 @@
 ```yaml
 name: Timo Rovers 
 located_in: Venlo, Netherlands
-current_job: Business Central Functional Consultant
+current_job: Business Central Consultant
 education: 
   [
     "Bachelor in Finance & Control"
   ]
 company: RoPe IT
 
-currently_learning: ["Application Language, Docker"]
-hobbies: ["Fitness, motorcycles, badminton, gaming"]
+currently_learning: ["Application Language"]
+hobbies: ["Fitness, motorcycles, badminton"]
 ```
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timorovers&layout=compact"/>
