@@ -4,11 +4,11 @@ located_in: Reuver, Netherlands
 current_job: Application Specialist
 education: 
   [
-    "Bachelor in Finance & Control"
+    "Bachelor degree in Finance & Control"
   ]
 
-currently_learning: ["Application Language"]
-hobbies: ["Fitness, motorcycles, badminton"]
+currently_learning: ["Dynamics 365 Finance & Operations"]
+hobbies: ["motorcycles, badminton"]
 ```
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timorovers&layout=compact"/>
