@@ -1,12 +1,11 @@
 ```yaml
 name: Timo Rovers 
-located_in: Venlo, Netherlands
-current_job: Business Central Consultant
+located_in: Reuver, Netherlands
+current_job: Application Specialist
 education: 
   [
     "Bachelor in Finance & Control"
   ]
-company: RoPe IT
 
 currently_learning: ["Application Language"]
 hobbies: ["Fitness, motorcycles, badminton"]
