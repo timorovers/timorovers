@@ -12,8 +12,6 @@ Glad you visied my Github profile, that likely doesn't happen often.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timorovers&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=timorovers&layout=compact"/>
-
 <div id="badges">
   <a href="https://linkedin.com/in/timorovers">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
