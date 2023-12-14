@@ -10,7 +10,7 @@ Glad you visied my Github profile, that likely doesn't happen often.
 ⚡ Fun fact: one of my favorite words is "nuke"
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timorovers&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timorovers&show_icons=true&theme=calm_pink)
 
 <div id="badges">
   <a href="https://linkedin.com/in/timorovers">
