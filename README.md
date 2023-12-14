@@ -1,14 +1,11 @@
 ```yaml
-name: Timo Rovers 
-located_in: Reuver, Netherlands
-current_job: Application Specialist
-education: 
-  [
-    "Bachelor degree in Finance & Control"
-  ]
+Hi there! 🖐️
+Glad you visied my Github profile, that likely doesn't happen often.
 
-currently_learning: ["Dynamics 365 Finance & Operations"]
-hobbies: ["motorcycles, badminton"]
+💼 Currently I'm working as a Application Specialist at Hendrix Genetics
+💨 Ask me about motorcycles
+📭 How to reach me: Instagram or Github
+⚡ Fun fact: one of my favorite words is "nuke"
 ```
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timorovers&layout=compact"/>
