@@ -3,7 +3,7 @@
 
 ### I am Timo Rovers
 - Currently working at Hendrix Genetics 
-- Basic coding knowledge in AL (Application Language) which is used for Microsoft Business Central
+- Basic AL knowledge (Application Language) which is used for Microsoft Business Central
 - Enjoy playing badminton and riding motorcycles 
 - One of my favorite words is "nuke" 💨
 
