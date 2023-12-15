@@ -1,4 +1,11 @@
+<br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+
+### I am Timo Rovers
+- Currently working at Hendrix Genetics 
+- Basic coding knowledge in AL (Application Language) which is used for Microsoft Business Central
+- Enjoy playing badminton and riding motorcycles 
+- One of my favorite words is "nuke" 💨
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timorovers&show_icons=true&theme=calm_pink)
 
