@@ -5,9 +5,9 @@ Glad you visied my Github profile, that likely doesn't happen often.
 
 💼 Currently I'm working as a Application Specialist at Hendrix Genetics in Boxmeer
 📍 Living in Reuver, The Netherlands
-🏍️💨 Ask me about motorcycles
+🏍️ Ask me about motorcycles
 📭 How to reach me: Instagram or LinkedIn
-⚡ Fun fact: one of my favorite words is "nuke"
+⚡ Fun fact: one of my favorite words is "nuke" 💨
 ```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timorovers&show_icons=true&theme=calm_pink)
