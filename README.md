@@ -1,6 +1,5 @@
-<br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
-<br />
+
 ### I am Timo Rovers
 - A functional Dynamics Finance consultant with a background in Dynamcics Business Central
 - For my current job I don't have to code. Also I only have some basic coding knowledge in Application Language (used for Business Central)  
