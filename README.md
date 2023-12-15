@@ -1,3 +1,10 @@
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+<a href="https://www.linkedin.com/in/timorovers/">
+  <img align="left" alt="Darshan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Timo Rovers
@@ -5,13 +12,3 @@
 - Basic AL knowledge (Application Language) which is used for Microsoft Business Central
 - Enjoy playing badminton and riding motorcycles 
 - One of my favorite words is "nuke" 💨
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timorovers&show_icons=true&theme=calm_pink)
-
-<div id="badges">
-  <a href="https://linkedin.com/in/timorovers">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/timorovers">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
